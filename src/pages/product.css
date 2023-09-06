@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+
+
+
+.back{
+    background-image: url('../assets/product_section.svg');
+height: 428px;
+flex-shrink: 0;
+}
+
+.back_h1{
+    padding: 155px 0 0 0;
+    color: #292848;
+
+font-size: 90px;
+font-style: normal;
+font-weight: 700;
+line-height: 110%; /* 99px */
+}
+
+.jop{
+    display: inline-flex;
+padding: 26px 29px 0px 31px;
+flex-direction: column;
+justify-content: flex-end;
+align-items: flex-start;
+gap: 23px;
+border-radius: 15px;
+background: white;
+box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
+}
+
+.in_para{
+    display: flex;
+  
+width: 766px;
+height: 1148px;
+flex-direction: column;
+justify-content: center;
+color: #878787;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 27.34px; 
+}
+
+.apply{
+    display: flex;
+width: 353px;
+height: 113px;
+padding: 32px 18px 31px 18px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+border-radius: 15px;
+background: #FFF;
+box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.15);
+}
+
+.apply_button{
+    display: flex;
+width: 317px;
+height: 50px;
+padding: 17px 0px 16px 0px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+border-radius: 10px;
+border: none;
+background: linear-gradient(90deg, #FF0C98 -65.97%, #FBA93C 136.44%);
+}
+
+.job{
+    width: 353px;
+height: 134px;
+flex-shrink: 0;
+border-radius: 15px;
+background: #FFF;
+box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.15);
+}
+
+.vector_img{
+    margin: 37px 0px 45px 56px;
+}
+
+.vector_p{
+    margin: 30px 30px 0px 30px;
+    font-size: 20px;
+
+}
+
+.vector_p1{
+    margin: 5px 30px 0px 30px;
+    font-size: 20px;
+
+}
+
+.box0{
+    padding-bottom: 20%;
+}
+
+.box{
+    width: 826px;
+height: 330px;
+flex-shrink: 0;
+border-radius: 15px;
+background: #FFF;
+box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.15);
+}
+
+.similer{
+    padding: 20px 555px 44px 35px;
+    font-weight: 700;
+    font-size: 23px;
+    color: #292848;   
+}
+
+.frame_img{
+    padding: 20px;
+}
+
+.frame_p{
+    padding: 30px;
+}
+
+.frame_p1{
+    padding: 35px 30px;
+}
+
+.frame_img1{
+    padding:  20px 15px;
+}
+
+.frame_img2{
+    padding:  20px 45px;
+}
